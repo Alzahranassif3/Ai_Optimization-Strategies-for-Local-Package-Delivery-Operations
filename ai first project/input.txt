@@ -1,0 +1,5 @@
+v0 100
+#package x y waight priority
+p0 10 10 50 3
+p1 60 35 50 1
+p2 70 51 50 2
